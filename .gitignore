@@ -1,1 +1,5 @@
 .secret
+app/.pulumi/
+app/__pycache__/
+app/my-key-pair.pem
+

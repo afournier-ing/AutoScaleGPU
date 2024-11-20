@@ -1,0 +1,6 @@
+name: my-aws-project
+runtime: python
+description: Pulumi AWS project using local backend
+backend:
+  url: file://./
+
